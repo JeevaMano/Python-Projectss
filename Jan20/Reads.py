@@ -1,4 +1,4 @@
-rahul=open("rahul.txt","r")
-ruby=rahul.read(10)
+rahul=open("rahul1.txt","r")
+ruby=rahul.read(5)
 print(ruby)
-rahul.close()
+rahul.close() 
